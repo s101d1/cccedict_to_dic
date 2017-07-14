@@ -11,7 +11,7 @@ A python script to convert [CC-CEDICT](https://cc-cedict.org/wiki/) file into [G
 
 2. Extract and put the CC-CEDICT file in same directory as the script.
 
-3. Run `python cccedict_to_dic.py [ccc_cedict_file] [output_dic_filename]` in console to perform the conversion.
+3. Run `python cccedict_to_dic.py [cc_cedict_filename] [output_dic_filename]` in console to perform the conversion.
 
    Example: `python cccedict_to_dic.py cedict_ts.u8 output.dic`
 
