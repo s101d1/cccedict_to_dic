@@ -14,5 +14,12 @@ A python script to convert [CC-CEDICT](https://cc-cedict.org/wiki/) file into [G
 3. Run `python cccedict_to_dic.py [cc_cedict_filename] [output_dic_filename]` in console to perform the conversion.
 
    Example: `python cccedict_to_dic.py cedict_ts.u8 output.dic`
+   
+   If you use the binary EXE file, run `cccedict_to_dic.exe [cc_cedict_filename] [output_dic_filename]` in console.
 
-4. The output DIC file can be imported into Google Pinyin IME.
+
+## Binary Release
+
+The binary EXE file is provided for Windows user who don't want to use python to run the script.
+
+[Download cccedict_to_dic.exe](https://github.com/s101d1/cccedict_to_dic/releases/download/0.1/cccedict_to_dic.exe)
